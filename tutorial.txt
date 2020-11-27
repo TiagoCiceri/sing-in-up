@@ -1,0 +1,39 @@
+npx create-react-app xxx --template=typescript
+
+Login HTML e CSS Responsivo exemplo:
+https://www.youtube.com/watch?v=piG91X4sV2U&t=1s
+
+
+site para imagens islutradas:
+https://undraw.co/illustrations
+
+-- Rotas
+yarn add react-router react-router-dom
+yarn add @types/react-router -D
+yarn add @types/react-router-dom -D
+yarn add history
+
+yarn add styled-components
+yarn add @types/styled-components -D
+
+
+-- Alerta REMOVIDO
+https://www.npmjs.com/package/react-notifications-component
+yarn add react-notifications-component
+yarn add @types/react-notifications-component -D
+
+
+echo "# sing-in-up" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TiagoCiceri/sing-in-up.git
+git push -u origin main
+                
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/TiagoCiceri/sing-in-up.git
+git branch -M main
+git push -u origin main
