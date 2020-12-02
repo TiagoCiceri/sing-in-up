@@ -7,6 +7,13 @@ https://www.youtube.com/watch?v=piG91X4sV2U&t=1s
 site para imagens islutradas:
 https://undraw.co/illustrations
 
+-- Conexão
+yarn add axios
+
+-- Validações
+yarn add yup
+yarn add @types/yup -D
+
 -- Rotas
 yarn add react-router react-router-dom
 yarn add @types/react-router -D
@@ -16,6 +23,15 @@ yarn add history
 yarn add styled-components
 yarn add @types/styled-components -D
 
+Outras instalações:
+yarn add react-hook-form
+yarn add @hookform/resolvers
+yarn add @hookform/error-message 
+
+--yarn add react-icons
+--yarn add styled-icons
+--yarn add @types/styled-icons -D
+--yarn add react-sticky-box
 
 -- Alerta REMOVIDO
 https://www.npmjs.com/package/react-notifications-component

@@ -1,10 +1,7 @@
 import React, { useState } from 'react'
-import { useHistory } from 'react-router-dom';
-
 import ImgLog from '../../img/log.svg';
 import ImgRegister from '../../img/register.svg';
-import FormsLogin from './FormsLogin';
-
+import Forms from './Forms';
 
 import './styles.css';
 
@@ -20,7 +17,7 @@ const SingInUp = () => {
     <>
       <div className={contexto} >
 
-          <FormsLogin />
+          <Forms />
 
           <div className="panels-container">
             <div className="panel left-panel">

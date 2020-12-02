@@ -398,3 +398,13 @@ form.sign-in-form {
     left: 50%;
   }
 }
+
+.errors p {
+  color: #f53404;
+}
+
+.errors p::before {
+  display: inline;
+  content: "⚠ ";
+}
+

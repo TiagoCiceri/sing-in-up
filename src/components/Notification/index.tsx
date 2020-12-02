@@ -4,8 +4,8 @@ import { store } from 'react-notifications-component';
 interface NotifyProps {
     type: 'success' | 'danger' | 'info' | 'default' | 'warning',
     title: string;
-    message: string;
     posicao: 'top-right'|'top-left'|'top-center'|'bottom-left'|'bottom-right'|'bottom-center';
+    message: string;
 }
 
 export function Notify(values: NotifyProps) {
